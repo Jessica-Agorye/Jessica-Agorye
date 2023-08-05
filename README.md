@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jessica-Agorye
-- 👀 I’m interested in Creating and Designing Websites
-- 🌱 I’m currently learning Web-Design
-- 💞️ I’m looking to collaborate on Different Projects that push my limit
+- 👀 I’m interested in Creating and Design
+- 💞️ I’m looking to collaborate on Different Projects that push my limits.
 - 📫 How to reach me @jessy_jua on Twitter | agoryejessica1@gmail.com
 
 <!---
